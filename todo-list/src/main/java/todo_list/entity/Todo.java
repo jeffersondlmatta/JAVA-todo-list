@@ -1,6 +1,7 @@
 package todo_list.entity;
 import jakarta.persistence.*;
 
+// comit
 @Entity
 @Table(name = "todos")
 public class Todo {
